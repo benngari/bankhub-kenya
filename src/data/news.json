@@ -1,0 +1,74 @@
+[
+  {
+    "id": "news-1",
+    "title": "CBK holds base lending rate steady amid inflation watch",
+    "summary": "The Central Bank's Monetary Policy Committee opted to hold the benchmark rate, citing stable inflation expectations and a cautious outlook on the shilling.",
+    "category": "CBK",
+    "date": "2026-06-24",
+    "author": "Business Desk",
+    "readMinutes": 4
+  },
+  {
+    "id": "news-2",
+    "title": "Banks report rising uptake of mobile-first personal loans",
+    "summary": "Several lenders say app-based instant loans now account for a growing share of new personal credit, driven by faster approval times and lower onboarding friction.",
+    "category": "Loans",
+    "date": "2026-06-20",
+    "author": "Fintech Desk",
+    "readMinutes": 3
+  },
+  {
+    "id": "news-3",
+    "title": "Agency banking networks cross a new milestone nationwide",
+    "summary": "Bank-appointed agents now outnumber traditional branches many times over, extending cash-in, cash-out, and account services deep into rural trading centres.",
+    "category": "Digital Banking",
+    "date": "2026-06-15",
+    "author": "Correspondent",
+    "readMinutes": 5
+  },
+  {
+    "id": "news-4",
+    "title": "Diaspora remittance inflows remain a key forex pillar",
+    "summary": "Money sent home by Kenyans abroad continues to be one of the largest sources of foreign exchange, with banks competing on transfer speed and fees.",
+    "category": "Forex",
+    "date": "2026-06-10",
+    "author": "Business Desk",
+    "readMinutes": 4
+  },
+  {
+    "id": "news-5",
+    "title": "Money market funds attract savers seeking better returns",
+    "summary": "More retail investors are shifting idle savings into money market funds as banks and asset managers push app-based investment products.",
+    "category": "Investments",
+    "date": "2026-06-05",
+    "author": "Markets Desk",
+    "readMinutes": 3
+  },
+  {
+    "id": "news-6",
+    "title": "Lenders pilot QR-code payments for small merchants",
+    "summary": "A wave of QR payment pilots aims to reduce cash handling for small traders while integrating directly with existing mobile money rails.",
+    "category": "Fintech",
+    "date": "2026-05-29",
+    "author": "Fintech Desk",
+    "readMinutes": 3
+  },
+  {
+    "id": "news-7",
+    "title": "Green financing products gain traction among SMEs",
+    "summary": "Several commercial banks have expanded asset finance lines for solar equipment and energy-efficient machinery aimed at small and medium enterprises.",
+    "category": "Loans",
+    "date": "2026-05-22",
+    "author": "Business Desk",
+    "readMinutes": 4
+  },
+  {
+    "id": "news-8",
+    "title": "CBK reiterates guidance on customer data protection",
+    "summary": "Regulators have reminded licensed institutions of their obligations around customer data handling as digital banking adoption accelerates.",
+    "category": "CBK",
+    "date": "2026-05-14",
+    "author": "Correspondent",
+    "readMinutes": 3
+  }
+]

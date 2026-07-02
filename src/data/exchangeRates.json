@@ -1,0 +1,8 @@
+[
+  { "code": "USD", "name": "US Dollar", "symbol": "$", "buy": 128.85, "sell": 132.95, "change": 0.32 },
+  { "code": "EUR", "name": "Euro", "symbol": "€", "buy": 139.10, "sell": 143.80, "change": -0.18 },
+  { "code": "GBP", "name": "British Pound", "symbol": "£", "buy": 163.40, "sell": 168.75, "change": 0.45 },
+  { "code": "AED", "name": "UAE Dirham", "symbol": "د.إ", "buy": 34.85, "sell": 36.20, "change": 0.05 },
+  { "code": "ZAR", "name": "South African Rand", "symbol": "R", "buy": 6.95, "sell": 7.45, "change": -0.09 },
+  { "code": "KES", "name": "Kenyan Shilling", "symbol": "KSh", "buy": 1.00, "sell": 1.00, "change": 0.00 }
+]
